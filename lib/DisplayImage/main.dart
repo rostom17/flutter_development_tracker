@@ -48,6 +48,7 @@ class _HomePageState extends State<HomePage> {
       body: Padding(
         padding: const EdgeInsets.all(12.0),
         child: GridView.builder(
+          physics: ScrollPhysics(parent: BouncingScrollPhysics()),
           itemCount: imageLinks.length,
           gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
             crossAxisCount: 2,
@@ -57,7 +58,6 @@ class _HomePageState extends State<HomePage> {
           ),
           itemBuilder: (context, index) {
             return Container(
-              //height: 400,
               decoration: BoxDecoration(
                 borderRadius: BorderRadius.circular(20),
                 image: DecorationImage(
