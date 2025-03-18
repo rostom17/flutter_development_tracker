@@ -18,6 +18,12 @@
             "program": "lib/DisplayImage/main.dart",
         },
         {
+            "name": "Drawer",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/Drawer/main.dart",
+        },
+        {
             "name": "flutter_development_tracker (profile mode)",
             "request": "launch",
             "type": "dart",
