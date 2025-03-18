@@ -24,6 +24,12 @@
             "program": "lib/Drawer/main.dart",
         },
         {
+            "name": "DisplayLocalAssetImage",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/DisplayLocalAssetImage/main.dart",
+        },
+        {
             "name": "flutter_development_tracker (profile mode)",
             "request": "launch",
             "type": "dart",
