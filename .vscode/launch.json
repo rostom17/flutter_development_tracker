@@ -60,6 +60,12 @@
             "program": "lib/PickDateTime/main.dart",
         },
         {
+            "name": "DeleteEdit",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/DeleteEdit/main.dart",
+        },
+        {
             "name": "flutter_development_tracker (profile mode)",
             "request": "launch",
             "type": "dart",
