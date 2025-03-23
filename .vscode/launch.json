@@ -54,6 +54,12 @@
             "program": "lib/CustomAppbar/main.dart",
         },
         {
+            "name": "PickDateTime",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/PickDateTime/main.dart",
+        },
+        {
             "name": "flutter_development_tracker (profile mode)",
             "request": "launch",
             "type": "dart",
