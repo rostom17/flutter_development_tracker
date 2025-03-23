@@ -30,6 +30,12 @@
             "program": "lib/CustomCard/main.dart",
         },
         {
+            "name": "BottomNavBar",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/BottomNavBar/main.dart",
+        },
+        {
             "name": "DisplayLocalAssetImage",
             "request": "launch",
             "type": "dart",
