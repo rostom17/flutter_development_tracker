@@ -71,6 +71,12 @@
             "program": "lib/AnimatedContainer/main.dart",
         },
         {
+            "name": "ModeSwitch",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/ModeSwitch/main.dart",
+        },
+        {
             "name": "flutter_development_tracker (profile mode)",
             "request": "launch",
             "type": "dart",
