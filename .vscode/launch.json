@@ -77,6 +77,12 @@
             "program": "lib/ModeSwitch/main.dart",
         },
         {
+            "name": "ImagePicker",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/ImagePicker/main.dart",
+        },
+        {
             "name": "flutter_development_tracker (profile mode)",
             "request": "launch",
             "type": "dart",
